@@ -1,4 +1,4 @@
-![Cover-Bird](https://github.com/Henner13/JavaScript-FlappyBird/blob/main/FlappyBird-cover.png)
+![Cover-Bird]([https://github.com/Henner13/JavaScript-FlappyBird/blob/main/FlappyBird-cover.png](https://github.com/Henner13/JavaScript-FlappyBird/blob/main/FlappyBirdCover.png))
 
 EN-Version
 ## 🐦 Flappy Bird Clone 
